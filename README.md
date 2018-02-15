@@ -1,2 +1,4 @@
 # FOSSIl-website
-Open source project for creating FOSSIL website
+Please do add any suggestions or ideas you have.
+Open issues for website creation.
+
